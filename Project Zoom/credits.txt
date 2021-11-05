@@ -1,0 +1,16 @@
+This project was made by:
+
+1192214: Momen Bazzar	1191015: Ameer Bazzar
+
+=============================================
+
+Make sure u have all of these libraries and modules ready to run the program.
+
+nltk
+pandas
+optparse
+datetime
+csv
+glob
+os
+re
